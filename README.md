@@ -92,7 +92,7 @@ Aspiring Data Analyst passionate about transforming data into actionable busines
 
 ### Connect with me
 
-- LinkedIn: *(Add your LinkedIn profile here)*
+- LinkedIn: *(https://www.linkedin.com/in/sandy-moseru-5936a5241/)*
 - GitHub: https://github.com/Sandy-With-Data56
 
 ---
